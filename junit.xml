@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="8" failures="0" errors="0" time="2.264">
+  <testsuite name="Catalog Viewer" errors="0" failures="0" skipped="0" timestamp="2023-09-24T16:43:03" time="1.577" tests="8">
+    <testcase classname="Catalog Viewer clicking on any catalog thumbnail should show the appropriate image" name="Catalog Viewer clicking on any catalog thumbnail should show the appropriate image" time="0.08">
+    </testcase>
+    <testcase classname="Catalog Viewer clicking on the previous button should show the previous image" name="Catalog Viewer clicking on the previous button should show the previous image" time="0.022">
+    </testcase>
+    <testcase classname="Catalog Viewer clicking on the next button should show the next image" name="Catalog Viewer clicking on the next button should show the next image" time="0.024">
+    </testcase>
+    <testcase classname="Catalog Viewer clicking on the previous button when on the first item should show the last image" name="Catalog Viewer clicking on the previous button when on the first item should show the last image" time="0.026">
+    </testcase>
+    <testcase classname="Catalog Viewer clicking on the next button when on the last item should show the first image" name="Catalog Viewer clicking on the next button when on the last item should show the first image" time="0.029">
+    </testcase>
+    <testcase classname="Catalog Viewer should change the image every 3 seconds when slide show checked" name="Catalog Viewer should change the image every 3 seconds when slide show checked" time="0.021">
+    </testcase>
+    <testcase classname="Catalog Viewer should have user interaction like before, when slide show checked" name="Catalog Viewer should have user interaction like before, when slide show checked" time="0.025">
+    </testcase>
+    <testcase classname="Catalog Viewer should stop changing the image every 3 seconds when slide show unchecked" name="Catalog Viewer should stop changing the image every 3 seconds when slide show unchecked" time="0.042">
+    </testcase>
+  </testsuite>
+</testsuites>
